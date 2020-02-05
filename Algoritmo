@@ -2,6 +2,9 @@
 Un algoritmo es un conjunto de pasos claros que sirven para ejecutar una tarea o resolver un problema. 
 Es una secuencia finita de operaciones realizables y precisas, cuya ejecución presenta una solución general para un problema dado.
 
+Dentro de la Informática, la metodología para la solución de problemas es la parte medular de la disciplina. Generalmente un problema se conceptualiza como un cuestionamiento que requiere una solución, que en un primer momento es desconocida, la solución dependerá del tipo de problema.
+Un aspecto importante en la solución de un problema es su comprensión, para posteriormente analizar, diseñar y evaluar posibles soluciones. El proceso de solución de problemas en el ámbito informático, lo realizarás con el conocimiento y construcción de los algoritmos a partir de las herramientas más conocidas para su especificación que son: el pseudocódigo y el diagrama de flujo.
+
 Los Algoritmos deben de ser:
 
 Capaz de solucionar el problema: El algoritmo debe de solucionar el problema en cierto número de instrucciones, las cuales deben de ser detalladas para no errar en ningún detalle.
