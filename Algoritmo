@@ -1,3 +1,15 @@
 
 Un algoritmo es un conjunto de pasos claros que sirven para ejecutar una tarea o resolver un problema. 
 Es una secuencia finita de operaciones realizables y precisas, cuya ejecución presenta una solución general para un problema dado.
+
+Los Algoritmos deben de ser:
+
+Capaz de solucionar el problema: El algoritmo debe de solucionar el problema en cierto número de instrucciones, las cuales deben de ser detalladas para no errar en ningún detalle.
+
+General: Procurar no repetir los pasos para no extender el algoritmo, ya que si se repite un paso se obtendrá el mismo resultado.
+
+Claro: Que cada paso sea explicado de manera detallada para resolver el problema que se plantea.
+
+Finito: Debe tener un determinado número y secuencia de pasos. Sin escatimar en el número de pasos que se deben de realizar para ejecutar la acción.
+
+Preciso: Hay actividades que se pueden llevar a cabo simultáneamente y otras que pueden intercambiarse sin modificar el resultado, pero en general debe ejecutarse en la forma en que fue diseñado.
