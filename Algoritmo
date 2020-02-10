@@ -13,3 +13,5 @@ Claro: Que cada paso sea explicado de manera detallada para resolver el problema
 Finito: Debe tener un determinado número y secuencia de pasos. Sin escatimar en el número de pasos que se deben de realizar para ejecutar la acción.
 
 Preciso: Hay actividades que se pueden llevar a cabo simultáneamente y otras que pueden intercambiarse sin modificar el resultado, pero en general debe ejecutarse en la forma en que fue diseñado.
+Finitud del algoritmo: Si un algoritmo no tiene fin se producirá una paradoja o «loop».  Los algoritmos deben ser finitos: deben terminar en algún momento o arrojar un resultado al final de sus pasos.
+Si el algoritmo se prolonga indefinidamente, regresando a algún punto inicial sin poderse resolver jamás, estaremos en presencia de una paradoja o un “loop” de repeticiones.
